@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.911e09c3.chunk.js",
-    "main.js.map": "/static/js/main.911e09c3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.df68765b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.df68765b.js.map",
-    "static/js/2.dd41f195.chunk.js": "/static/js/2.dd41f195.chunk.js",
-    "static/js/2.dd41f195.chunk.js.map": "/static/js/2.dd41f195.chunk.js.map",
-    "static/js/3.d47cd08e.chunk.js": "/static/js/3.d47cd08e.chunk.js",
-    "static/js/3.d47cd08e.chunk.js.map": "/static/js/3.d47cd08e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6e085e9b0c71dde0027c90fa93da61a0.js": "/precache-manifest.6e085e9b0c71dde0027c90fa93da61a0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.dd41f195.chunk.js.LICENSE.txt": "/static/js/2.dd41f195.chunk.js.LICENSE.txt"
+    "main.js": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/main.911e09c3.chunk.js",
+    "main.js.map": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/main.911e09c3.chunk.js.map",
+    "runtime-main.js": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/runtime-main.0b47a833.js",
+    "runtime-main.js.map": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/runtime-main.0b47a833.js.map",
+    "static/js/2.dd41f195.chunk.js": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/2.dd41f195.chunk.js",
+    "static/js/2.dd41f195.chunk.js.map": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/2.dd41f195.chunk.js.map",
+    "static/js/3.d47cd08e.chunk.js": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/3.d47cd08e.chunk.js",
+    "static/js/3.d47cd08e.chunk.js.map": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/3.d47cd08e.chunk.js.map",
+    "index.html": "/react-app-with-best-practices-for-google-lighthouse-score-demo/index.html",
+    "precache-manifest.0ce5e77acb07bb87c1dfc7f1d4bbf0fa.js": "/react-app-with-best-practices-for-google-lighthouse-score-demo/precache-manifest.0ce5e77acb07bb87c1dfc7f1d4bbf0fa.js",
+    "service-worker.js": "/react-app-with-best-practices-for-google-lighthouse-score-demo/service-worker.js",
+    "static/js/2.dd41f195.chunk.js.LICENSE.txt": "/react-app-with-best-practices-for-google-lighthouse-score-demo/static/js/2.dd41f195.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.df68765b.js",
+    "static/js/runtime-main.0b47a833.js",
     "static/js/2.dd41f195.chunk.js",
     "static/js/main.911e09c3.chunk.js"
   ]
