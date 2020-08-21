@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-app-with-best-practices-for-google-lighthouse-score-demo/precache-manifest.0ce5e77acb07bb87c1dfc7f1d4bbf0fa.js"
+  "/react-app-with-best-practices-for-google-lighthouse-score-demo/precache-manifest.1182f1dc7cff7874291b6f85d2524a15.js"
 );
 
 self.addEventListener('message', (event) => {
